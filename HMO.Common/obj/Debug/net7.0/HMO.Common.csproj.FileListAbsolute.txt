@@ -1,0 +1,15 @@
+D:\HMO\HMO.Common\bin\Debug\net7.0\HMO.Common.deps.json
+D:\HMO\HMO.Common\bin\Debug\net7.0\HMO.Common.dll
+D:\HMO\HMO.Common\bin\Debug\net7.0\HMO.Common.pdb
+D:\HMO\HMO.Common\bin\Debug\net7.0\HMO.Repositories.dll
+D:\HMO\HMO.Common\bin\Debug\net7.0\HMO.Repositories.pdb
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.csproj.AssemblyReference.cache
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.AssemblyInfoInputs.cache
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.AssemblyInfo.cs
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.csproj.CoreCompileInputs.cache
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.csproj.CopyComplete
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.dll
+D:\HMO\HMO.Common\obj\Debug\net7.0\refint\HMO.Common.dll
+D:\HMO\HMO.Common\obj\Debug\net7.0\HMO.Common.pdb
+D:\HMO\HMO.Common\obj\Debug\net7.0\ref\HMO.Common.dll

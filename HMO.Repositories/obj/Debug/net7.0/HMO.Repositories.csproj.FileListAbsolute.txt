@@ -1,0 +1,12 @@
+D:\HMO\HMO.Repositories\bin\Debug\net7.0\HMO.Repositories.deps.json
+D:\HMO\HMO.Repositories\bin\Debug\net7.0\HMO.Repositories.dll
+D:\HMO\HMO.Repositories\bin\Debug\net7.0\HMO.Repositories.pdb
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.csproj.AssemblyReference.cache
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.AssemblyInfoInputs.cache
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.AssemblyInfo.cs
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.csproj.CoreCompileInputs.cache
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.dll
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\refint\HMO.Repositories.dll
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\HMO.Repositories.pdb
+D:\HMO\HMO.Repositories\obj\Debug\net7.0\ref\HMO.Repositories.dll

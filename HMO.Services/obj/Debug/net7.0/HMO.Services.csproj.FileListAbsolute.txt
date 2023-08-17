@@ -1,0 +1,17 @@
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Services.deps.json
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Services.dll
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Services.pdb
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Common.dll
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Repositories.dll
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Common.pdb
+D:\HMO\HMO.Services\bin\Debug\net7.0\HMO.Repositories.pdb
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.csproj.AssemblyReference.cache
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.AssemblyInfoInputs.cache
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.AssemblyInfo.cs
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.csproj.CoreCompileInputs.cache
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.csproj.CopyComplete
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.dll
+D:\HMO\HMO.Services\obj\Debug\net7.0\refint\HMO.Services.dll
+D:\HMO\HMO.Services\obj\Debug\net7.0\HMO.Services.pdb
+D:\HMO\HMO.Services\obj\Debug\net7.0\ref\HMO.Services.dll

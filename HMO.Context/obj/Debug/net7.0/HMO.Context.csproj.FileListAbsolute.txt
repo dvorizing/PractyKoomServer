@@ -1,0 +1,17 @@
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Context.deps.json
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Context.runtimeconfig.json
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Context.dll
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Context.pdb
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Repositories.dll
+D:\HMO\HMO.Context\bin\Debug\net7.0\HMO.Repositories.pdb
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.csproj.AssemblyReference.cache
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.AssemblyInfoInputs.cache
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.AssemblyInfo.cs
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.csproj.CoreCompileInputs.cache
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.csproj.CopyComplete
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.dll
+D:\HMO\HMO.Context\obj\Debug\net7.0\refint\HMO.Context.dll
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.pdb
+D:\HMO\HMO.Context\obj\Debug\net7.0\HMO.Context.genruntimeconfig.cache
+D:\HMO\HMO.Context\obj\Debug\net7.0\ref\HMO.Context.dll
